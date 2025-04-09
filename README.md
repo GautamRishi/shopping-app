@@ -1,5 +1,5 @@
 # shopping-app
-
+- Firestore Database
 Table deatils:
 1. users
    -userID(string)
@@ -18,3 +18,7 @@ Table deatils:
    - productVisibility(Boolean)
 4. order
 5. address
+
+- Storage
+1. Folder name
+   - productListImage
