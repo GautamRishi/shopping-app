@@ -11,6 +11,7 @@
   ![image](https://github.com/user-attachments/assets/68b739b9-4abd-46eb-b1f7-80b0c4e930dd)
 
 - Firestore Database
+  
 Table deatils
 1. users
    -userID(string)
@@ -28,8 +29,20 @@ Table deatils
    - productQuantity(number)
    - productVisibility(Boolean)
 4. order
-5. address
-
+   - orderID(string)
+   - address(string)
+   - cartItems(array)
+   - createdDate(string)
+   - orderStatus(string)
+   - totalCartAmount(number)
+   - userMailID
+6. address
+   - addressID(string)
+   - createdDate(string)
+   - address(string)
+   - pinCode(string)
+   - userMailID(string)
+     
 - Storage
 1. Folder name
    - productListImage
