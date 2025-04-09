@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="sign_in_button">Login</string>
+    <string name="reset_password_button">Reset</string>
+    <string name="sign_up_button">Create Account</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="sign_out_item">Sign out</string>
+    <string name="sign_in_screen_title">Login</string>
+    <string name="sign_up_screen_title">Create Account</string>
+    <string name="add_product_screen_title">Add Product</string>
+    <string name="update_product_screen_title">Update Product</string>
+    <string name="my_cart_title">My Cart</string>
+    <string name="order_summary_title">Order Summary</string>
+    <string name="nameLabel">Name</string>
+    <string name="emailLabel">Email Id</string>
+    <string name="passwordLabel">Password</string>
+    <string name="confirmPasswordLabel">Confirm Password</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signUp">Sign up</string>
+    <string name="signIn">Already have an account?  Sign in.</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="SignInMessage">Please sign in to continue</string>
+    <string name="welcome_message">Welcome to Cart Assignment</string>
+    <string name="invalidName">Name should be at least 3 characters</string>
+    <string name="invalidEmail">Provide a valid email address</string>
+    <string name="invalidPassword">Password should be at least 8 characters</string>
+    <string name="passwordMismatch">Password and confirm password should be same</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="add_product">Add</string>
+    <string name="invalidProductName">Product name should be at least 5 characters</string>
+    <string name="invalidProductDesc">Product description should be at least 5 characters</string>
+    <string name="invalidProductPrice">Price value minimum value ₹1</string>
+    <string name="invalidProductQuantity">Quantity value minimum value 1</string>
+    <string name="product_saved_successfully">uploaded successfully</string>
+</resources>

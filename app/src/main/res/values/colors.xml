@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow_200">#FFFFF59D</color>
+    <color name="yellow_500">#FFFFEB3B</color>
+    <color name="yellow_700">#FFFBC02D</color>
+    <color name="yellow_800">#FFF9A825</color>
+    <color name="yellow_900">#FFF57F17</color>
+    <color name="ic_launcher_background">#F4C601</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#E5E5E5</color>
+    <color name="product_name">#232F34</color>
+    <color name="product_description">#344855</color>
+    <color name="product_price">#232F34</color>
+
+</resources>
